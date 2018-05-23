@@ -124,9 +124,9 @@ end
 OAR_geo=Ar_ext*Ar_int;
 delOAR=OAR_geo-OAR_Kant;
 if OTPR==0
-    f=0;
-else
     f=1;
+else
+    f=0;
 end
 
 Pe = OPR*P0;
