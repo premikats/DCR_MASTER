@@ -18,6 +18,9 @@ function [x,iter,flag] = Bisection(fnhandle,x_l,x_u,varargin)
 % Last but before - Tolerance
 
 %%
+
+% DON'T BE SAD PLEASEEEEEEEEEE
+% !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 n_f = nargin(fnhandle);
 n = nargin;
 
